@@ -26,7 +26,7 @@
 <h3 align="center">WhatHappendThisDay-scraper-</h3>
 
   <p align="center">
-    Simple project that I did while learning react. It scrapes from wikipedia on this day section, i used Firebase,React and puppeteer.
+    Simple project that I did while learning react. It scrapes from wikipedia on this day section, I used Firebase,React and puppeteer.
   
   </p>
 </div>
