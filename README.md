@@ -122,7 +122,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://petar-zec-je-gej.netlify.app/]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
