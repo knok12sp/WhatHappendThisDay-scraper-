@@ -64,7 +64,7 @@
 
 coprakenan@gmail.com
 
-Project Link: [https://petar-zec-je-gej.netlify.app/]
+Project Link: https://this-day-in-history.netlify.app/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
