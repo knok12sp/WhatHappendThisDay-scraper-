@@ -27,15 +27,7 @@
 
   <p align="center">
     Simple project that I did while learning react. It scrapes from the wikipedia on this day section and sends it to my site, i used Firebase,React and puppeteer.
-    <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+  
   </p>
 </div>
 
