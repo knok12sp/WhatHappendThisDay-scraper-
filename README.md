@@ -54,13 +54,6 @@
 * ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -77,7 +70,7 @@
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+coprakenan@gmail.com
 
 Project Link: [https://petar-zec-je-gej.netlify.app/]
 
@@ -85,14 +78,6 @@ Project Link: [https://petar-zec-je-gej.netlify.app/]
 
 
 
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-* []()
-* []()
-* []()
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
