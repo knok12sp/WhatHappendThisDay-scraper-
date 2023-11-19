@@ -10,6 +10,7 @@ const getToday=()=>{
 
     return `${today.getDate()}${today.getMonth()+1}${today.getFullYear()}`;
 };
+/*The pubsub function doesn't run automaticaly,you have manually call it in the terminal.I don't know why it doesn't run, if I figure it out I will update it */
 exports.pubsub=functions
     .region("europe-west3")
     .runWith({memory: '2GB'})
